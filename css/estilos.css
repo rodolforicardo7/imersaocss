@@ -1,0 +1,40 @@
+body {
+    background-image: url(https://www.designerd.com.br/wp-content/uploads/2018/07/download.png);
+    background-size: auto 100vh;
+   font-family: Verdana;
+    height: 100vh;
+  }
+  
+  .menu{
+    background-color: white;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: teal;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .sub,
+  .title {
+    color: whitesmoke;
+    text-align: center;
+  }
+  
+  .sub {
+    font-style: italic;
+  }
+  
+  
